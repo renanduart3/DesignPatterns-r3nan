@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>dependency_injection_console</RootNamespace>
+    <RootNamespace>DesignPatterns.DependencyInjection</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
